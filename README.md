@@ -10,18 +10,18 @@
 
  ```bash
 
- 2024-06-17 - 19:25:49 UTC
+ 2024-06-17 - 19:36:38 UTC
 
  ```
 
 
  ```bash
 
- Host Name : fv-az2028-989
+ Host Name : fv-az569-368
 
  platform  : Linux-6.5.0-1021-azure-x86_64-with-glibc2.35
 
- Ip Local  : 10.1.0.95
+ Ip Local  : 10.1.0.74
 
  ```
 
